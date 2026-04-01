@@ -67,3 +67,4 @@ title('Magnitude Spectrum of HPF using Hanning Window');
 ## OUTPUT:
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 05 04 PM](https://github.com/user-attachments/assets/7fdce004-ea8c-4337-953c-c950aa654e6f)
